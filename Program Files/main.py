@@ -1,7 +1,5 @@
 import QuadraticSieve
 
-
-
 if __name__ == "__main__":
     # Below I have listed sample values to factorize while printing intermediate outputs to terminal
     ## Values of n should be odd, composite, and not a perfect power
